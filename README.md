@@ -1,3 +1,4 @@
+![logo](https://github.com/aAfI2430/Mohammad-Aafi-Ismail-Mansuri/blob/main/Blue%20Modern%20Photo%20Technology%20YouTube%20Banner.png)
 # Mohammad-Aafi-Ismail-Mansuri
 <h1 align="center">Hi 👋, I'm Mohammad Aafi Ismail Mansuri</h1>
 <h3 align="center">A passionate Networking and Software Engineer</h3>
